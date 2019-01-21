@@ -1,0 +1,15 @@
+{
+  "name": "apollo-vue-chat-server",
+  "version": "0.1.0",
+  "description": "Experiment with graphql over web socket",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "graphql": "^14.1.1"
+  }
+}
