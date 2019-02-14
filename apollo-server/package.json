@@ -4,7 +4,9 @@
   "description": "Experiment with graphql over web socket",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node src/index.js",
+    "stop": "killall node"
   },
   "author": "",
   "license": "ISC",
